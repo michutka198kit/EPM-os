@@ -14,3 +14,13 @@ Features
 How To Use
 - On Open It Will Ask For A Master Password, Make A Password You Will Use Forever To Create An Account User
 - Self Explanitory From There
+
+How It Works
+- This Application Works By Using Python And Some Other Dependencies
+
+Confirmed Support
+- Windows 10
+- Windows 11 [UNVERIFYED]
+
+Required Dependencues
+- Unsure At The Moment
