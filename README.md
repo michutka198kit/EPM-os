@@ -1,6 +1,13 @@
 
 ![F U-EPMos_Shrunk Round](https://github.com/user-attachments/assets/3d6a90cb-7f27-4435-8880-0874c7239376)
 
+## 🛠️ How To Use
+- On open, it will ask for a **master password**.  
+  Create a password you will use forever to create an account/user.
+- Self-explanatory from there after install.
+
+---
+
 ## 🔐 Features
 | Feature | Description |
 |--------|-------------|
@@ -15,14 +22,6 @@
 | 🔐 Encrypted Vaults | Password entry using FULLY encrypted file data to generate users/vaults when password doesn't exist |
 | ☁️ Easy Backups | Easy backups to downloads to easily put to a cloud if needed |
 | 🚀 More Coming Soon! | Stay tuned for additional features! |
-
-
-## 🛠️ How To Use
-- On open, it will ask for a **master password**.  
-  Create a password you will use forever to create an account/user.
-- Self-explanatory from there after install.
-
----
 
 ## ✅ Confirmed Support
 | Platform     | Status        |
