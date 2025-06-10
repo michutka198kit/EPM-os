@@ -33,5 +33,5 @@
 
 ---
 
-## 🐞 Report Bugs or Suggest Features
+## 🐞 Report Bugs, Suggest Features, or Send In Test Results
 📬 [Create New](https://github.com/michutka198kit/EPM-os/issues/new)
