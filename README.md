@@ -12,17 +12,17 @@
 | Feature | Description |
 |--------|-------------|
 | 🖱️ Right/Left Click Drag | Pick up password and place in website |
+| 🔀 Password Randomizer | Randomize your password from 1–100 without even thinking |
 | ➕ Add Accounts | Add domain, username, and password |
-| 👥 Profiles | Profiles for many accounts |
-| 💾 Unlimited Storage | Infinite amount of saved passwords and accounts |
-| 🔍 Search Menu | Search menu for easily searching domains and profiles |
-| 🔐 Encrypted Vaults | Password entry using FULLY encrypted file data to generate users/vaults when password doesn't exist |
-| 🔀 Randomizer | Randomize your password from 1–100 without even thinking |
-| 📡 Remote Access Server | A server you can host to get easy access from passwords to another device like a phone that otherwise would be difficult *(currently does not work with the .exe file)* |
-| 🔁 Port Customization | Changing ports of a server |
-| ☁️ Easy Backups | Easy backups to downloads to easily put to a cloud if needed |
-| ⭐ Easy To Use | Requires little time to understand and enjoy a better life |
-| 🚀 More Coming Soon! | Stay tuned for additional features! |
+| 👥 Profiles | Profiles for many diffrent accounts *(work, school, etc.)* |
+| 💾 Unlimited Storage | Infinite amount of saved passwords, users, and profiles |
+| 🔍 Search Menu | Search menu for easily filtering domains and profiles |
+| 🔐 Encrypted Vaults | All saved data is FULLY encrypted to ensure safty and can't be accessed without a users created password |
+| 📡 Remote Access Server | A server you can host to get easy access to passwords for another device like a phone *(currently does not work with the .exe file)* |
+| 🔁 Port Customization | Easy to change ports for your hosted server |
+| ☁️ Easy Backups | Easy backups to downloads to easily go to the cloud |
+| ⭐ Easy To Use | Requires little time to understand and more secure than googles password method |
+| 🚀 More Coming Soon! | Stay tuned for additional features and bug fixes! |
 
 ## ✅ Confirmed Support
 | Platform     | Status        |
