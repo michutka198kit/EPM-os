@@ -36,6 +36,8 @@
 ## 🐞 Report Bugs, Suggest Features, or Send In Test Results
 📬 [Create New](https://github.com/michutka198kit/EPM-os/issues/new)
 
+---
+
 ## 👀 What it looks like (V0.67)
 - The Password Manager
 ![screenshot_2025-06-10_17-44-52](https://github.com/user-attachments/assets/6ca038ac-2ae7-4316-893a-9231773d37dd)
