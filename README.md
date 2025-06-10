@@ -24,3 +24,5 @@ Confirmed Support
 
 Required Dependencues
 - Unsure At The Moment
+
+![EPMosLogo](https://github.com/user-attachments/assets/ad37dd32-8cc9-4fe8-b18d-63bd0d98ffc5)
