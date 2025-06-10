@@ -2,9 +2,9 @@
 ![F U-EPMos_Shrunk Round](https://github.com/user-attachments/assets/3d6a90cb-7f27-4435-8880-0874c7239376)
 
 ## 🛠️ How To Use
-- On open, it will ask for a **master password**.  
+1- On open, it will ask for a **master password**.  
   Create a password you will use forever to create an account/user.
-- Self-explanatory from there after install.
+2- Get To Managing Better!
 
 ---
 
