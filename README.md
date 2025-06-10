@@ -1,32 +1,37 @@
 
 ![F U-EPMos_Shrunk Round](https://github.com/user-attachments/assets/3d6a90cb-7f27-4435-8880-0874c7239376)
 
-Features
-- Right/Left Click Drag To Pick Up Password And Place In Website
-- Add Domain, Username, And Password.
-- Randomizer Password from 1-100
-- Infinate Amount Of Saved Passwords And Accounts
-- Profiles For Many Accounts
-- Search Menu For Easily Searching Domains And Profiles
-- A Server You Can Host To Get Easy Access From Passwords TO Another Device Like A Phone That Otherwise Would Be Difficult [Currently Does Not Work With The .exe file]
-- Changing Ports Of A Server
-- Password Entry Using FULLY Encrypted File Data To Generate Users/Vaults When Password Doesent Exist
-- Easy Backups To Downloads To Easily Put To A Cloud If Needed
-- And More Coming Soon!
+## 🔐 Features
+| Feature | Description |
+|--------|-------------|
+| 🖱️ Right/Left Click Drag | Pick up password and place in website |
+| ➕ Add Accounts | Add domain, username, and password |
+| 🔀 Randomizer | Randomizer password from 1–100 |
+| 💾 Unlimited Storage | Infinite amount of saved passwords and accounts |
+| 👥 Profiles | Profiles for many accounts |
+| 🔍 Search Menu | Search menu for easily searching domains and profiles |
+| 📡 Remote Access Server | A server you can host to get easy access from passwords to another device like a phone that otherwise would be difficult *(currently does not work with the .exe file)* |
+| 🔁 Port Customization | Changing ports of a server |
+| 🔐 Encrypted Vaults | Password entry using FULLY encrypted file data to generate users/vaults when password doesn't exist |
+| ☁️ Easy Backups | Easy backups to downloads to easily put to a cloud if needed |
+| 🚀 More Coming Soon! | Stay tuned for additional features! |
 
-How To Use
-- On Open It Will Ask For A Master Password, Make A Password You Will Use Forever To Create An Account User
-- Self Explanitory From There
 
-How It Works
-- This Application Works By Using Python And Some Other Dependencies
+## 🛠️ How To Use
+- On open, it will ask for a **master password**.  
+  Create a password you will use forever to create an account/user.
+- Self-explanatory from there after install.
 
-Confirmed Support
-- Windows 10
-- Windows 11 [UNVERIFYED]
+---
 
-Required Dependencues
-- Unsure At The Moment
+## ✅ Confirmed Support
+| Platform     | Status        |
+|--------------|---------------|
+| Windows 10   | ✅ Confirmed   |
+| Windows 11   | ⚠️ Unverified  |
+| Others       | ⚠️ Unverified  |
 
-Report Bugs Or Create Suggestions Here
-- [Create New](https://github.com/michutka198kit/EPM-os/issues/new)
+---
+
+## 🐞 Report Bugs or Suggest Features
+📬 [Create New](https://github.com/michutka198kit/EPM-os/issues/new)
