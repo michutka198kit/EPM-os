@@ -27,3 +27,6 @@ Confirmed Support
 
 Required Dependencues
 - Unsure At The Moment
+
+Report Bugs Or Create Suggestions Here
+- [Create New](https://github.com/michutka198kit/EPM-os/issues/new)
