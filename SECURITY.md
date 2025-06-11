@@ -1,7 +1,5 @@
 # Security Policy
 
-Current Security Risk Is Unknown
-
 | Version | Algorithm | Derivation | File Name |
 | ------- | -------- | ----------- | --------- |
 | 0.67   | ⭐ 4.5/5 | ⭐ 4/5 | ⭐ 2/5 |
