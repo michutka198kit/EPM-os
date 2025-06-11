@@ -4,6 +4,7 @@
 ## 🛠️ How To Use
 - On open, it will ask for a **master password**.  
 - Enter a password you will use forever to create a user.
+(Currently There Is An Issue With This, You Have To Run As Admin To Create A New User. A Fix For This Will Come Soon)
 - Get To Managing Better!
 
 ---
