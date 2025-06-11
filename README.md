@@ -2,6 +2,8 @@
 ![F U-EPMos_Shrunk Round](https://github.com/user-attachments/assets/3d6a90cb-7f27-4435-8880-0874c7239376)
 
 ## 🛠️ How To Use
+- Setup & Install
+- You May Get A "Your Computer May Be At Risk" Message, this is because I'm not paying a ton of money a month/year for Windows to be happy over ONE project
 - On open, it will ask for a **master password**.  
 - Enter a password you will use forever to create a user.
 (Currently There Is An Issue With This, You Have To Run As Admin To Create A New User. A Fix For This Will Come Soon)
