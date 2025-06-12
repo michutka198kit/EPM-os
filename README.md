@@ -32,7 +32,8 @@
 |--------------|---------------|
 | Windows 10   | ✅ Confirmed   |
 | Windows 11   | ⚠️ Unverified  |
-| Others       | ⚠️ Unverified  |
+| Linux | ❌ Unsuported |
+| macOS | ❌ Unsuported |
 
 ---
 
