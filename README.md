@@ -47,8 +47,8 @@
         <tr><th>Platform</th><th>Status</th></tr>
         <tr><td>Windows 10</td><td>✅ Confirmed</td></tr>
         <tr><td>Windows 11</td><td>✅ Confirmed</td></tr>
-        <tr><td>Linux</td><td>✅ Confirmed</td></tr>
-        <tr><td>macOS</td><td>✅ Confirmed</td></tr>
+        <tr><td>Linux</td><td>✅ Not Tested</td></tr>
+        <tr><td>macOS</td><td>✅ Not Tested</td></tr>
       </table>
     </td>
     <td style="vertical-align: top;">
