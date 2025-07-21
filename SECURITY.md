@@ -3,6 +3,7 @@
 | Version | Algorithm | Derivation | File Name |
 | ------- | -------- | ----------- | --------- |
 | 0.67   | ⭐ 4.5/5 | ⭐ 4/5 | ⭐ 2/5 |
+| Next UPD| ⭐ 5/5 | ⭐ 4.5/5 | ⭐ 3/5 |
 
 ## New Features For Higher Security On The Table
 - Switch to AES-256-GCM From AES-128-CBC
