@@ -59,5 +59,8 @@
 - Accessable Server For Portability To Your Devices
 - Able To Copy Users & Codes
 - No More System32 Directory!
+- Settings!
+- DARK MODE!!!
+- New UI
 And Many More To Soon Be Created, Fixed, And Changed!
 Keep An Eye Out On My Checklists On Open Issues
