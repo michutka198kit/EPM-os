@@ -77,18 +77,13 @@
 
 ---
 
-## ⭐ What's New And Guaranteed Coming Soon Next Update?
-- New Security Features
-  - Encryption Type Change
-  - Hashing Changes
-  - Integration Amount
-  - Coping Time Limit For Clipboard
-- Accessable Server For Portability To Your Devices
-- Able To Copy Users & Codes
-- No More System32 Directory!
-- Settings!
-- DARK MODE!!!
-- New UI
-- Support For Mac0s & Linux Users!
-And Many More To Soon Be Created, Fixed, And Changed!
-Keep An Eye Out On My Checklists On Open Issues
+## ⭐ What's New and Guaranteed Coming Soon (Next Update)
+
+| Category                         | Features                                                                 |
+|----------------------------------|--------------------------------------------------------------------------|
+| **New Security Features**        | - Encryption type change <br> - Hashing improvements <br> - Integration amount <br> - Clipboard copy time limit <br> └─ Right-click to copy usernames & codes |
+| **Server & Portability**         | - Accessible local server for syncing across devices <br> - Works with new encryption settings |
+| **Authentication Improvements**  | - No more required authentication from the vault directory              |
+| **User Experience**              | - Settings menu added <br> - All-new UI <br> - Dark Mode support        |
+| **Cross-Platform Support**       | - Now works on **macOS** and **Linux**                                  |
+| **And Many More Soon**           | - More features and enhancements are on the way                         |
