@@ -47,3 +47,17 @@
 ![screenshot_2025-06-10_17-44-52](https://github.com/user-attachments/assets/6ca038ac-2ae7-4316-893a-9231773d37dd)
 - The Server Website (Currently Unavailable)
 ![screenshot_2025-06-10_17-46-53](https://github.com/user-attachments/assets/e965bf36-8b14-4cf0-9bec-13a9fdb8d243)
+
+---
+
+## 👀 What's New And Guaranteed Coming Soon Next Update?
+- New Security Features
+  - Encryption Type Change
+  - Hashing Changes
+  - Integration Amount
+  - Coping Time Limit For Clipboard
+- Accessable Server For Portability To Your Devices
+- Able To Copy Users & Codes
+- No More System32 Directory!
+And Many More To Soon Be Created, Fixed, And Changed!
+Keep An Eye Out On My Checklists On Open Issues
