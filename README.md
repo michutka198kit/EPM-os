@@ -31,7 +31,7 @@
 | Platform     | Status        |
 |--------------|---------------|
 | Windows 10   | ✅ Confirmed   |
-| Windows 11   | ⚠️ Unverified  |
+| Windows 11   | ✅ Confirmed  |
 | Linux | ❌ Unsuported |
 | macOS | ❌ Unsuported |
 
@@ -62,5 +62,6 @@
 - Settings!
 - DARK MODE!!!
 - New UI
+- Support For Mac0s & Linux Users!
 And Many More To Soon Be Created, Fixed, And Changed!
 Keep An Eye Out On My Checklists On Open Issues
