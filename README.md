@@ -28,29 +28,56 @@
 | 🚀 More Coming Soon! | Stay tuned for additional features and bug fixes! |
 
 ## ✅ Confirmed Support
-| Platform     | Status        |
-|--------------|---------------|
-| Windows 10   | ✅ Confirmed   |
-| Windows 11   | ✅ Confirmed  |
-| Linux | ❌ Unsuported |
-| macOS | ❌ Unsuported |
 
----
-
-## 🐞 Report Bugs, Suggest Features, or Send In Test Results
-📬 [Create New](https://github.com/michutka198kit/EPM-os/issues/new)
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 40px;">
+      <h3>V0.67</h3>
+      <table border="1" cellspacing="0" cellpadding="6">
+        <tr><th>Platform</th><th>Status</th></tr>
+        <tr><td>Windows 10</td><td>✅ Confirmed</td></tr>
+        <tr><td>Windows 11</td><td>✅ Confirmed</td></tr>
+        <tr><td>Linux</td><td>❌ Unsupported</td></tr>
+        <tr><td>macOS</td><td>❌ Unsupported</td></tr>
+      </table>
+    </td>
+    <td style="vertical-align: top; padding-right: 40px;">
+      <h3>Next Update</h3>
+      <table border="1" cellspacing="0" cellpadding="6">
+        <tr><th>Platform</th><th>Status</th></tr>
+        <tr><td>Windows 10</td><td>✅ Confirmed</td></tr>
+        <tr><td>Windows 11</td><td>✅ Confirmed</td></tr>
+        <tr><td>Linux</td><td>✅ Confirmed</td></tr>
+        <tr><td>macOS</td><td>✅ Confirmed</td></tr>
+      </table>
+    </td>
+    <td style="vertical-align: top;">
+      <h3>🐞 <a href="https://github.com/michutka198kit/EPM-os/issues/new">Report Bugs</a></h3>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 👀 What it looks like (V0.67)
-- The Password Manager
-![screenshot_2025-06-10_17-44-52](https://github.com/user-attachments/assets/6ca038ac-2ae7-4316-893a-9231773d37dd)
-- The Server Website (Currently Unavailable)
-![screenshot_2025-06-10_17-46-53](https://github.com/user-attachments/assets/e965bf36-8b14-4cf0-9bec-13a9fdb8d243)
+<table>
+  <tr>
+    <td><strong>The Password Manager</strong></td>
+    <td><strong>The Server Website (Currently Unavailable)</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/6ca038ac-2ae7-4316-893a-9231773d37dd" width="300px" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/e965bf36-8b14-4cf0-9bec-13a9fdb8d243" width="300px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 👀 What's New And Guaranteed Coming Soon Next Update?
+## ⭐ What's New And Guaranteed Coming Soon Next Update?
 - New Security Features
   - Encryption Type Change
   - Hashing Changes
