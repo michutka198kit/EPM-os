@@ -131,6 +131,12 @@
 
 ---
 
+## 👀 Next Update Looks Compaired To V0.67
+<img width="1797" height="979" alt="screenshot_2025-07-22_13-28-11" src="https://github.com/user-attachments/assets/20d0d698-f84d-452f-8e14-7f67aa915d05" />
+
+
+---
+
 ## ⭐ What's New and Guaranteed Coming Soon (Next Update)
 
 | Category                         | Features                                                                 |
