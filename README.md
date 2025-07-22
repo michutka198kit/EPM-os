@@ -137,6 +137,7 @@
 |----------------------------------|--------------------------------------------------------------------------|
 | **New Security Features**        | - Encryption type change <br> - Hashing improvements <br> - Integration amount <br> - Clipboard copy time limit <br> └─ Right-click to copy usernames & codes |
 | **Server & Portability**         | - Accessible local server for syncing across devices <br> - Works with new encryption settings |
+| **New Server UI & Improvements** | - Great visuals for using the portable server with it's new settings, host UI, and integration with the installer |
 | **Authentication Improvements**  | - No more required authentication from the vault directory              |
 | **User Experience**              | - Settings menu added <br> - All-new UI <br> - Dark Mode support        |
 | **Cross-Platform Support**       | - Now works on **macOS** and **Linux**                                  |
