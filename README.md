@@ -11,21 +11,75 @@
 
 ---
 
+<div align="center">
+
 ## 🔐 Features
-| Feature | Description |
-|--------|-------------|
-| 🖱️ Right/Left Click Drag | Pick up password and place in website |
-| 🔀 Password Randomizer | Randomize your password from 1–100 without even thinking |
-| ➕ Add Accounts | Add domain, username, and password |
-| 👥 Profiles | Profiles for many diffrent accounts *(work, school, etc.)* |
-| 💾 Unlimited Storage | Infinite amount of saved passwords, users, and profiles, while using little storage |
-| 🔍 Search Menu | Search menu for easily filtering domains and profiles |
-| 🔐 Encrypted Vaults | All saved data is FULLY encrypted to ensure safty and can't be accessed without a users created password |
-| 📡 Remote Access Server | A server you can host to get easy access to passwords for another device like a phone *(currently does not work with the .exe file)* |
-| 🔁 Port Customization | Easy to change ports for your hosted server |
-| ☁️ Easy Backups | Easy backups to downloads to easily go to the cloud |
-| ⭐ Easy To Use | Requires little time to understand and more secure than googles password method |
-| 🚀 More Coming Soon! | Stay tuned for additional features and bug fixes! |
+
+<table>
+  <thead>
+    <tr>
+      <th align="left"><strong><code>Feature</code></strong></th>
+      <th align="left"><strong><code>Description</code></strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🖱️ <strong><code>Right/Left Click Drag</code></strong></td>
+      <td>Drag & drop passwords directly into login fields.</td>
+    </tr>
+    <tr>
+      <td>🔀 <strong><code>Password Randomizer</code></strong></td>
+      <td>Generate random secure passwords (1–100 chars).</td>
+    </tr>
+    <tr>
+      <td>➕ <strong><code>Add Accounts</code></strong></td>
+      <td>Add domain, username, and password to your vault.</td>
+    </tr>
+    <tr>
+      <td>👥 <strong><code>Profiles</code></strong></td>
+      <td>Separate profiles for work, school, personal, etc.</td>
+    </tr>
+    <tr>
+      <td>💾 <strong><code>Unlimited Storage</code></strong></td>
+      <td>Save an infinite number of credentials with low usage.</td>
+    </tr>
+    <tr>
+      <td>🔍 <strong><code>Search Menu</code></strong></td>
+      <td>Quickly filter by domain, user, or profile.</td>
+    </tr>
+    <tr>
+      <td>🔐 <strong><code>Encrypted Vaults</code></strong></td>
+      <td><strong>Fully encrypted</strong>. Only accessible via your master password.</td>
+    </tr>
+    <tr>
+      <td>📡 <strong><code>Remote Access Server</code></strong></td>
+      <td>Access your vault from other devices <em>(except <code>.exe</code> builds)</em>.</td>
+    </tr>
+    <tr>
+      <td>🔁 <strong><code>Port Customization</code></strong></td>
+      <td>Set your preferred port for self-hosted access.</td>
+    </tr>
+    <tr>
+      <td>☁️ <strong><code>Easy Backups</code></strong></td>
+      <td>Export securely to local or cloud-based storage.</td>
+    </tr>
+    <tr>
+      <td>⭐ <strong><code>Easy to Use</code></strong></td>
+      <td>Intuitive UI. Safer and faster than Google Password Manager.</td>
+    </tr>
+    <tr>
+      <td>🚀 <strong><code>More Coming Soon!</code></strong></td>
+      <td>New features and upgrades are on the way!</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+
+<div align="center">
+  
+---
 
 ## ✅ Confirmed Support
 
@@ -87,3 +141,4 @@
 | **User Experience**              | - Settings menu added <br> - All-new UI <br> - Dark Mode support        |
 | **Cross-Platform Support**       | - Now works on **macOS** and **Linux**                                  |
 | **And Many More Soon**           | - More features and enhancements are on the way                         |
+</div>
