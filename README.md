@@ -1,6 +1,9 @@
 
 ![F U-EPMos_Shrunk Round](https://github.com/user-attachments/assets/3d6a90cb-7f27-4435-8880-0874c7239376)
 
+## WHEN IS THE NEXT UPDATE?!
+ My answer right now is, im unsure. There are ton's of things I would like to do to improve my life with this application but there are still void spots where I don't know what im doing. By this I mean I want to create tons of new features but some of them are impossible to me currently, (like making an application to easily access from a device when not around a computer). The other issue is time, i've been busy doing nothing but working and figuring more things out for myself, this speaks also why I haven't created any content in a long time, I wanted to focus on coding more and so I did, and on my free time id relax and play games but it's hard to get any space in between to not only learn something new, but make whatever I learned exist, coming up with even more ideas to the point where I ditch everything and do something else foe a long period of time that's not coding sometimes, this is really the only coding project I currently have that's massive but anything I do is tiring; solving, thinking, making ideas to just not even do anything in the end and bam months dissapear and yet there is still so much stuff I want to do under the sun. So regarding this it may take me a very long while to release an update, thanks for reading, hopfully one day it can thrive.
+
 ## 🛠️ How To Use
 - Setup & Install
 - You May Get A "Your Computer May Be At Risk" Message, this is because I'm not paying a ton of money a month/year for Windows to be happy over ONE project
