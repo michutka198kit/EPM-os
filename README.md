@@ -1,10 +1,25 @@
 
 ![F U-EPMos_Shrunk Round](https://github.com/user-attachments/assets/3d6a90cb-7f27-4435-8880-0874c7239376)
 
-## WHEN IS THE NEXT UPDATE?!
- My answer right now is, im unsure. There are ton's of things I would like to do to improve my life with this application but there are still void spots where I don't know what im doing. By this I mean I want to create tons of new features but some of them are impossible to me currently, (like making an application to easily access from a device when not around a computer). The other issue is time, i've been busy doing nothing but working and figuring more things out for myself, this speaks also why I haven't created any content in a long time, I wanted to focus on coding more and so I did, and on my free time id relax and play games but it's hard to get any space in between to not only learn something new, but make whatever I learned exist, coming up with even more ideas to the point where I ditch everything and do something else foe a long period of time that's not coding sometimes, this is really the only coding project I currently have that's massive but anything I do is tiring; solving, thinking, making ideas to just not even do anything in the end and bam months dissapear and yet there is still so much stuff I want to do under the sun. So regarding this it may take me a very long while to release an update, thanks for reading, hopfully one day it can thrive.
+## About
+What is EPM-os? It means "Easy Password Manager", Easy to use, secure, and super benifical.
+I can't say im great at cryptography or cyber security but I honestly wanted to make my own and learn, and show what I learned with a result.
+
+## V80 Answers
+When will the update release?
+ - No Idea
+Is this update compatiable with old "vaults"?
+ - No but I did make a conversion tool
+What does the update contain?
+ - Way too much to put here but here is a good list
+    - Fixed Many Vulnerabilities via tokens/api's and hashing methods
+    - Merged Menus (Including a non dedicated server branch)
+    - An easy use extention to put on any browser to easily access passwords securely (You need the manager open for communication)
+    - AND some more coming soon (I'm testing a code generater that will also work with the extention and webapp) (Hopefully i'll add settings soon)
+    - Support dropped for other devices (windows 10/11 should work still), this is just because it's an extra layer of i'm unsure what im doing so it's going under the rug for now
 
 ## 🛠️ How To Use
+!WARNING MANY VULNERABILITIES TAKE PLACE AND ARE FIXED NEXT UPDATE, OLD VAULTS WILL NEED TO BE MIGRATED!
 - Setup & Install
 - You May Get A "Your Computer May Be At Risk" Message, this is because I'm not paying a ton of money a month/year for Windows to be happy over ONE project
 - On open, it will ask for a **master password**.  
@@ -140,7 +155,7 @@
 
 ---
 
-## ⭐ What's New and Guaranteed Coming Soon (Next Update)
+## ⭐ What's New and Guaranteed Coming Soon (Next Update) (This is slightly outdated as it's V70-75 Era and Im working past 75 which changes some elements)
 
 | Category                         | Features                                                                 |
 |----------------------------------|--------------------------------------------------------------------------|
