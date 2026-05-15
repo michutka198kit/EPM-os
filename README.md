@@ -123,6 +123,16 @@ What does the update contain?
         <tr><td>macOS</td><td>✅ Not Tested</td></tr>
       </table>
     </td>
+    <td style="vertical-align: top; padding-right: 40px;">
+      <h3>V80</h3>
+      <table border="1" cellspacing="0" cellpadding="6">
+        <tr><th>Platform</th><th>Status</th></tr>
+        <tr><td>Windows 10</td><td>✅ Confirmed</td></tr>
+        <tr><td>Windows 11</td><td>✅ Confirmed</td></tr>
+        <tr><td>Linux</td><td>❌ Unsupported</td></tr>
+        <tr><td>macOS</td><td>❌ Unsupported</td></tr>
+      </table>
+    </td>
     <td style="vertical-align: top;">
       <h3>🐞 <a href="https://github.com/michutka198kit/EPM-os/issues/new">Report Bugs</a></h3>
     </td>
