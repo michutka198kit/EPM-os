@@ -8,9 +8,18 @@ I can't say im great at cryptography or cyber security but I honestly wanted to 
 ## V0.80 Answers
 When will the update release?
  - No Idea
+
 Is this update compatiable with old "vaults"?
  - No but I did make a conversion tool
-What does the update contain?
+
+What would you recommend people to do with the old version
+ - Delete every file in appdata as it saved tokens there for some ungodly reason
+ - Tokens allows you to gain access to your vault so please I dont recommend getting V0.67
+
+Is it easy to use?
+ - Id say so HOWEVER, it's noticiably hard when there is no computer access
+
+What does the update contain
  - Way too much to put here but here is a good list
     - Fixed Many Vulnerabilities via tokens/api's and hashing methods
     - Merged Menus (Including a non dedicated server branch)
