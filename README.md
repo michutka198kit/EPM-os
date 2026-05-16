@@ -12,19 +12,19 @@ When will the update release?
 Is this update compatiable with old "vaults"?
  - No but I did make a conversion tool
 
-What would you recommend people to do with the old version
+What would you recommend people to do with the old version?
  - Delete every file in appdata as it saved tokens there for some ungodly reason
  - Tokens allows you to gain access to your vault so please I dont recommend getting V0.67
 
 Is it easy to use?
  - Id say so HOWEVER, it's noticiably hard when there is no computer access
 
-What does the update contain
+What does the update contain?
  - Way too much to put here but here is a good list
     - Fixed Many Vulnerabilities via tokens/api's and hashing methods
     - Merged Menus (Including a non dedicated server branch)
     - An easy use extention to put on any browser to easily access passwords securely (You need the manager open for communication)
-    - AND some more coming soon (I'm testing a code generater that will also work with the extention and webapp) (Hopefully i'll add settings soon)
+    - AND some more coming soon (I'm currently working on some experimental features)
     - Support dropped for other devices (windows 10/11 should work still), this is just because it's an extra layer of i'm unsure what im doing so it's going under the rug for now
 
 ## 🛠️ How To Use
