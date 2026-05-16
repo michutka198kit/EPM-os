@@ -5,6 +5,10 @@
 What is EPM-os? It means "Easy Password Manager", Easy to use, secure, and super benifical.
 I can't say im great at cryptography or cyber security but I honestly wanted to make my own and learn, and show what I learned with a result.
 
+## Goals
+Easy, Multiuse, Portiable, NO APPS, NO INTERNET, NEVER TRACKED, Local use, Fully encrypted
+Access anywhere anytime (Computer required for setup)
+
 ## V0.80 Answers
 When will the update release?
  - No Idea
