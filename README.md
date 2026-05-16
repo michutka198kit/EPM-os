@@ -5,7 +5,7 @@
 What is EPM-os? It means "Easy Password Manager", Easy to use, secure, and super benifical.
 I can't say im great at cryptography or cyber security but I honestly wanted to make my own and learn, and show what I learned with a result.
 
-## V80 Answers
+## V0.80 Answers
 When will the update release?
  - No Idea
 Is this update compatiable with old "vaults"?
@@ -159,21 +159,21 @@ What does the update contain?
 
 ---
 
-## 👀 Next Update Looks Compaired To V0.67
+## 👀 V0.71 Update Looks Compaired To V0.67
 <img width="1797" height="979" alt="screenshot_2025-07-22_13-28-11" src="https://github.com/user-attachments/assets/20d0d698-f84d-452f-8e14-7f67aa915d05" />
 
 
 ---
 
-## ⭐ What's New and Guaranteed Coming Soon (Next Update) (This is slightly outdated as it's V70-75 Era and Im working past 75 which changes some elements)
+## ⭐ What's New and Guaranteed Coming Soon (Next Update)
 
 | Category                         | Features                                                                 |
 |----------------------------------|--------------------------------------------------------------------------|
 | **New Security Features**        | - Encryption type change <br> - Hashing improvements <br> - Integration amount <br> - Clipboard copy time limit <br> └─ Right-click to copy usernames & codes |
 | **Server & Portability**         | - Accessible local server for syncing across devices <br> - Works with new encryption settings |
 | **New Server UI & Improvements** | - New settings, host UI, and integration with the installer |
-| **Authentication Improvements**  | - No more required authentication from the vault directory              |
+| **Authentication Improvements**  | - No more required authentication from the vault directory to run              |
 | **User Experience**              | - Settings menu added <br> - All-new UI <br> - Dark Mode support        |
-| **Cross-Platform Support**       | - Now works on **macOS** and **Linux**                                  |
+| **Autopassword Filler Extention**       | - open the manager, port the server, and now your extension can autofill passwords easily.                                  |
 | **And Many More Soon**           | - More features and enhancements are on the way                         |
 </div>
