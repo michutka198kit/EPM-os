@@ -18,11 +18,12 @@ So it's more of a matter on which features I need to cook with to make it easier
 THEN it will release, meanwhile you can watch the update list change as features are added/tested/revised.
 
 ## What's New Next Version
-PLEASE check out the "issues" tab to see improvements make along the way. Currently Under V0.80/V0.90
+PLEASE check out the "issues" tab to see improvements make along the way. Currently Under V0.90\
+Details of V0.70-V0.80 is at the bottom of this page
 
 ---
 
-<div align="center">
+<div>
 
 ## 🔐 Features
 <table>
@@ -85,7 +86,7 @@ PLEASE check out the "issues" tab to see improvements make along the way. Curren
 </div>
 
 
-<div align="center">
+<div>
   
 ---
 
@@ -106,3 +107,95 @@ PLEASE check out the "issues" tab to see improvements make along the way. Curren
 </table>
 
 ---
+
+THIS IS CURRENT AS OF V0.80\
+Will update when V0.90 is finished
+
+<details>
+<summary>
+<h2>🔧 Fixes (10)</h2>
+</summary>
+
+<div>
+
+- Fixed `Profile: None` not working for websites and filters.
+- Fixed installer compatibility with server dependency.
+- Fixed server process remaining active after closing the server window.
+- Fixed editing entries creating duplicates when changing website/domain fields.
+- Fixed autofill issues introduced after localhost communication merge.
+- Fixed extension refresh/status updates before manager communication completes.
+- Fixed extension version not updating in settings.
+- Fixed password blur not applying to all passwords.
+- Fixed native messaging extension hosting portability issues.
+- Fixed update checking for app and extension.
+
+</div>
+</details>
+
+<details>
+<summary>
+<h2>⚙️ Changes (15)</h2>
+</summary>
+
+<div>
+
+- Increased profile filter box size.
+- Upgraded encryption to **AES-256-GCM**.
+- Added unique salts per user vault.
+- Changed vault filenames to avoid hashing.
+- Increased key derivation iterations from **100,000 → 1,000,000**.
+- Enabled "Show Password" by default.
+- Introduced a new UI across the application.
+- Updated server to support new encryption methods.
+- Simplified vault settings paths.
+- Redesigned account creation and master password UI.
+- Improved light theme styling.
+- Simplified and minimized autofill banner UI.
+- Redesigned logo and branding.
+- Merged vault settings into encrypted vault files.
+- Added version metadata directly into vault files.
+
+</div>
+</details>
+
+<details>
+<summary>
+<h2>✨ Additions (31)</h2>
+</summary>
+
+<div>
+
+- Added `Profile: None` to password manager filters.
+- Added current version numbers to window titles.
+- Added copy username/password actions.
+- Added automatic clipboard clearing after 10 seconds.
+- Added Dark Mode.
+- Added default account settings.
+- Added per-user settings.
+- Added profile-specific settings.
+- Added reset to defaults option.
+- Added username and master password changes.
+- Added view settings.
+- Added password blur setting.
+- Added date format settings.
+- Added additional security components.
+- Added account creation prompt for missing vaults.
+- Added user display names.
+- Added UI and settings for server dependency.
+- Added quick-access server launch button.
+- Added server download integration.
+- Added timestamped vault export folders.
+- Added profile opening options (`All`, `None`, and specific profiles).
+- Added sortable columns for websites, emails, passwords, profiles, and dates.
+- Added selectable date display columns.
+- Added password generator customization options.
+- Added "Open Website" to dropdown menus.
+- Added encryption for local communication.
+- Added extension autofill support without requiring the server.
+- Added raw vault viewer/editor.
+- Added offline server website support.
+- Added password content searching with highlighting support.
+- Added profile colors.
+
+</div>
+</details>
