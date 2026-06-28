@@ -1,5 +1,5 @@
 
-![F U-EPMos_Shrunk Round](https://github.com/user-attachments/assets/3d6a90cb-7f27-4435-8880-0874c7239376)
+<img width="2120" height="1280" alt="Features+Usage Rounded" src="https://github.com/user-attachments/assets/eee92cf6-ab4e-4c23-9c08-381a842262f3" />
 
 ## About
 What is EPM-os? It means "Easy Password Manager", Easy to use, secure, and super benifical.
