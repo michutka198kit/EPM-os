@@ -15,7 +15,8 @@ Don't Currently... Just don't.\
 I'm trying to release a version that can handle updates...\
 BUT most importantally I need to make myself like how easy it is to use on any device across all of them.\
 So it's more of a matter on which features I need to cook with to make it easier for me.\
-THEN it will release, meanwhile you can watch the update list change as features are added/tested/revised.
+THEN it will release, meanwhile you can watch the update list change as features are added/tested/revised.\
+I wish I was good at designing UI in python but for some reason it's somewhat difficult to get a good result
 
 ## What's New Next Version
 PLEASE check out the "issues" tab to see improvements make along the way. Currently Under V0.90\
