@@ -25,7 +25,7 @@ Details of V0.70-V0.80 is at the bottom of this page
 
 <div>
 
-## 🔐 Features
+## Features
 <table>
   <tbody>
     <tr>
@@ -90,7 +90,7 @@ Details of V0.70-V0.80 is at the bottom of this page
   
 ---
 
-## ✅ Current Version Confirmed Support
+## Current Version Confirmed Support
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 40px;">
